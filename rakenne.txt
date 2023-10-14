@@ -1,0 +1,9 @@
+1. Johdanto
+2. Lohkosalaus
+Yleistä
+ECB
+CBC
+GCM
+3. Moodien vertailu keskenään
+4. Käytännon demot
+5. yhteenveto, johtopäätökset
