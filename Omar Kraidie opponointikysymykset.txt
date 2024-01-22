@@ -1,0 +1,4 @@
+1.	Paljonko suunnilleen meni aikaa projektin toteutukseen ja kuinka paljon aikaa säästyi
+	käyttämällä valmiita komponentti- ja tyylikirjastoja kuten esim. Shadcn/UI ja TailwindCSS?
+
+2.	Tarkoitus oli siis tehdä pilottiversio. Onko jo ajatuksia jatkokehityksestä?
