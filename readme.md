@@ -130,13 +130,13 @@ By decoding the resulting hexadecimal string one can see that $M_2$ begins with 
 
 For simplicity the first guess here was ‘hello’. A more universal first guess could be for example the article ‘the’ which is very common in the English language. This first guess could then be “dragged” byte by byte to the right until something readable emerges from the $M_1⊕M_2⊕G_1$ operation. So, the first try would be $0x7468650000000000000000$, then $0x0074686500000000000000$ etc. until $0x0000000000007468650000$ would reveal the ‘ngs’ from ‘greetings’. The attacker could then try different “words” ending in ‘ngs’ to find out more about the other ciphertext or try another word altogether.
 
-![](./Kaaviot/cribdrag_01.JPG)
+![](./Kaaviot/cribdrag_01.JPG)      
 Table 1. First guess of plaintext contents
 
-![](./Kaaviot/cribdrag_02.JPG)
+![](./Kaaviot/cribdrag_02.JPG)      
 Table 2. Second guess of plaintext contents
 
-![](./Kaaviot/cribdrag_03.JPG)
+![](./Kaaviot/cribdrag_03.JPG)      
 Table 3. Third guess of plaintext contents
 
 # Comparison of modes
